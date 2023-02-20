@@ -6,5 +6,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently student in NWMSU
 - 🌱 I’m currently learning web apps
-- 👯 I’m looking to collaborate on bussiness
-- 📫 How to reach me: on call
+- 👯 I’m looking for Full Stack Development
+- 💬 Ask me about Python, Html, Css and java.
+- 📫 How to reach me: suddakantisravan@gmail.com
